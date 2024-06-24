@@ -80,7 +80,7 @@ static const char * const omen_timed_thermal_profile_boards[] = {
 
 /* DMI Board names of Victus laptops */
 static const char * const victus_thermal_profile_boards[] = {
-	"8A25"
+	"8A25", "8BBE"
 };
 
 enum hp_wmi_radio {
